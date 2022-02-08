@@ -1,4 +1,4 @@
-package com.leanbot.app.ui.home
+package com.leanbot.app.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
